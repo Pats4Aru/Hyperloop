@@ -21,7 +21,5 @@ The third puzzle is a cipher. There is a provided key scrolling on the top of th
 
 A final cutscene will play and the game will return to the title screen. 
 
-
-
-
+Video Tutorial - file named newWalkthrough.mp4 in https://drive.google.com/drive/folders/19qWs2Y8uo8z6eaWD0fOEzdsKL0TxVJd1?usp=drive_link
 
